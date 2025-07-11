@@ -1,34 +1,43 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Columbia University</a>. New York. MFE. Quant & Derivatives.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: jimmy.png
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Columbia University, MFE</p>
+    <p>New York, NY</p>
+    <p>Email: jg1234@columbia.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: false
+  limit:
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit:
 ---
 
-I am now pursing Master in Financial Engineering at Columbia IEOR.
+Hi! I'm **Zhengyi Guo (Jimmy)**, a Master of Financial Engineering student at Columbia University.  
+I'm passionate about **quantitative finance**, especially in **derivatives trading**, **machine learning**, and **portfolio optimization**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I worked on:
+- Improving liquidity forecasting models for A-shares (reduced prediction error by 30%)
+- Applying Monte Carlo simulation for VaR estimation in multi-asset portfolios
+- Researching deep learning applications in financial time series
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I believe financial engineering is a bridge between rigorous mathematical modeling and impactful investment decisions. Always excited to collaborate on quant research or trading ideas!
+
+You can find me on [GitHub](https://github.com/JimmyNotZhengyi) or drop me a message.
+
+<!-- Add more details below if needed -->
+
