@@ -6,7 +6,7 @@ subtitle: <a href='#'>Columbia University</a>. New York. MFE. Quant & Derivative
 
 profile:
   align: right
-  image: jimmy.png
+  image: profile_photo.png
   image_circular: true
   more_info: >
     <p>Columbia University, MFE</p>
