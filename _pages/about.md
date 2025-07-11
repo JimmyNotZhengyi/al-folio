@@ -7,11 +7,9 @@ subtitle: <a href='#'>Columbia University</a>. New York. MFE. Quant & Derivative
 profile:
   align: right
   image: profile_photo.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
-    <p>Columbia University, MFE</p>
-    <p>New York, NY</p>
-    <p>Email: jg1234@columbia.edu</p>
+    <p>Email: zg2525@columbia.edu</p>
 
 selected_papers: false
 social: true
