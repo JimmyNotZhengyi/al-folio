@@ -29,17 +29,17 @@ latest_posts:
   limit:
 ---
 
-Hi! I'm **Zhengyi Guo (Jimmy)**, a Master of Financial Engineering student at Columbia University.  
-I'm passionate about **quantitative finance**, especially in **derivatives trading**, **machine learning**, and **portfolio optimization**.
+I am Zhengyi Guo, a Master of Financial Engineering student at Columbia University. Before coming to Columbia, I obtained my B.S. in Mathematics from University of Liverpool. My acedemic interest is mainly on modern machine learning from propability perspective. Currently, I'm passionate about **Quantitative Finance**, **Generative AI**, and **Decentralized Finance**.
 
-Previously, I worked on:
-- Improving liquidity forecasting models for A-shares (reduced prediction error by 30%)
-- Applying Monte Carlo simulation for VaR estimation in multi-asset portfolios
-- Researching deep learning applications in financial time series
+Apart from research, I love working out, football, basketball, poker and travelling. Moreover, I plan to be a vlogger and skier. If you have similar hobbies, feel free to contact!
 
-I believe financial engineering is a bridge between rigorous mathematical modeling and impactful investment decisions. Always excited to collaborate on quant research or trading ideas!
+Here is my 
 
-You can find me on [GitHub](https://github.com/JimmyNotZhengyi) or drop me a message.
 
-<!-- Add more details below if needed -->
+
+
+
+
+
+
 
