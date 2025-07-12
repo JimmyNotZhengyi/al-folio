@@ -35,6 +35,48 @@ Apart from research, I love working out, football, basketball, poker and travell
 
 
 
+## 🧑‍🎓 Education
+
+**Columbia University**  
+*MS in Financial Engineering*  
+2024 – Present  
+
+**University of Liverpool**  
+*BSc in Mathematics with Finance*  
+2019 – 2022  
+
+---
+
+## 📚 Publications
+
+- Guo, Z., *Deep Learning in Financial Time Series*, 2024.  
+- Guo, Z., *Monte Carlo Simulation for VaR*, 2023.
+
+---
+
+## 💼 Projects
+
+- **Liquidity Forecasting for A-shares**: Reduced prediction error by 30%.  
+- **Portfolio VaR Estimation**: Monte Carlo based multi-asset modeling.  
+- **Time Series Deep Learning**: LSTM + attention models for financial signals.
+
+---
+
+## 🧠 Interests
+
+Quantitative Finance, Generative AI, Decentralized Finance, Derivatives Trading
+
+---
+
+## ✨ Personal
+
+Apart from research, I love working out, football, basketball, poker and travelling.  
+Planning to try vlog creation and skiing!
+
+---
+
+
+
 
 
 
