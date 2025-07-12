@@ -14,7 +14,7 @@ profile:
   image_circular: false
 ---
 
-<!-- 👇 写在 profile 模块旁边的自我介绍内容 -->
+
 I am Zhengyi Guo, a Master of Financial Engineering student at Columbia University.  
 Before coming to Columbia, I obtained my B.S. in Mathematics from University of Liverpool.  
 My academic interest is mainly on modern machine learning from probability perspective.  
@@ -23,50 +23,33 @@ Currently, I’m passionate about **Quantitative Finance**, **Generative AI**, a
 Apart from research, I love working out, football, basketball, poker and travelling.  
 Moreover, I plan to try vlog creation and learn to ski. If you have similar hobbies, feel free to reach out!
 
-<!-- ✅ 清除浮动，开始新一行内容（让 Education 等模块从头像下方开始） -->
+Email: zg2525@columbia.edu
+
 <div style="clear: both"></div>
 
 ---
 
-## 🧑‍🎓 Education
+## Education
 
-**Columbia University**  
-*MS in Financial Engineering*  
-2024 – Present  
+- **Columbia University**  *M.S. in Financial Engineering*  Aug 2024 – Dec 2025
 
-**University of Liverpool**  
-*BSc in Mathematics with Finance*  
-2019 – 2022  
+- **University of Liverpool**  *B.S. in Mathematics*  Sep 2022 - Jun 2024
+
+- **Xi'an Jiaotong-Liverpool Univeristy**  *B.S. in Applied Mathematics*  Sep 2020 - Jun 2022
 
 ---
 
-## 📚 Publications
+## Awards
 
-- Guo, Z., *Deep Learning in Financial Time Series*, 2024.  
-- Guo, Z., *Monte Carlo Simulation for VaR*, 2023.
+- **Benjamin Miller Memorial Fellowship**, Columbia Univeristy, May 2025
 
----
+- **Sampford Memorial Prize**, University of Liverpool, Jun 2024
 
-## 💼 Projects
+- **Brownlow Hill Prize**, Univeristy of Liverpool, Jun 2023
 
-- **Liquidity Forecasting for A-shares**: Reduced prediction error by 30%.  
-- **Portfolio VaR Estimation**: Monte Carlo based multi-asset modeling.  
-- **Time Series Deep Learning**: LSTM + attention models for financial signals.
+- **2+2 Program Excellence Scholarship**, Xi'an Jiaotong-Liverpool University, Jun 2022
 
----
-
-## 🧠 Interests
-
-Quantitative Finance, Generative AI, Decentralized Finance, Derivatives Trading
-
----
-
-## ✨ Personal
-
-Apart from research, I love working out, football, basketball, poker and travelling.  
-Planning to try vlog creation and skiing!
-
----
+- **Univeristy Academic Excellence Award**, Xi'an Jiaotong-Liverpool University, Jun 2021
 
 
 
