@@ -31,9 +31,9 @@ latest_posts:
 
 I am Zhengyi Guo, a Master of Financial Engineering student at Columbia University. Before coming to Columbia, I obtained my B.S. in Mathematics from University of Liverpool. My acedemic interest is mainly on modern machine learning from propability perspective. Currently, I'm passionate about **Quantitative Finance**, **Generative AI**, and **Decentralized Finance**.
 
-Apart from research, I love working out, football, basketball, poker and travelling. Moreover, I plan to be a vlogger and skier. If you have similar hobbies, feel free to contact!
+Apart from research, I love working out, football, basketball, poker and travelling. Moreover, I plan to try vlog creation and learn to ski. If you have similar hobbies, feel free to reach out!
 
-[Here is my CV](assets/pdf/Resume_New.pdf)
+
 
 
 
