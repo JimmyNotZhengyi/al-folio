@@ -2,9 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="font-family: 'Georgia', 'Times New Roman', cursive; font-style: italic;">
-  Life can only be understood backwards, but it must be lived forwards.
-</p>
+subtitle: >
+  <p style="font-family: 'Georgia', 'Times New Roman', cursive; font-style: italic;">
+    Life can only be understood backwards, but it must be lived forwards.
+  </p>
 
 
 profile:
