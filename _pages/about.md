@@ -27,9 +27,10 @@ Email: zg2525@columbia.edu
 
 <div style="clear: both"></div>
 
----
+
 
 ## Education
+---
 
 - **Columbia University**  *M.S. in Financial Engineering*  Aug 2024 – Dec 2025
 
@@ -37,9 +38,10 @@ Email: zg2525@columbia.edu
 
 - **Xi'an Jiaotong-Liverpool Univeristy**  *B.S. in Applied Mathematics*  Sep 2020 - Jun 2022
 
----
+
 
 ## Awards
+---
 
 - **Benjamin Miller Memorial Fellowship**, Columbia Univeristy, May 2025
 
