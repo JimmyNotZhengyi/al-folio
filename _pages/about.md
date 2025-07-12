@@ -32,12 +32,14 @@ Email: zg2525@columbia.edu
 ## Education
 ---
 
-- **Columbia University**  *M.S. in Financial Engineering*  Aug 2024 – Dec 2025
+- **Columbia University**,  *M.S. in Financial Engineering*,  Aug 2024 – Dec 2025
 
-- **University of Liverpool**  *B.S. in Mathematics*  Sep 2022 - Jun 2024
+- **University of Liverpool**,  *B.S. in Mathematics*,  Sep 2022 - Jun 2024
 
-- **Xi'an Jiaotong-Liverpool Univeristy**  *B.S. in Applied Mathematics*  Sep 2020 - Jun 2022
+- **Xi'an Jiaotong-Liverpool Univeristy**,  *B.S. in Applied Mathematics*,  Sep 2020 - Jun 2022
 
+
+<div style="margin-top: 40px"></div>
 
 
 ## Awards
