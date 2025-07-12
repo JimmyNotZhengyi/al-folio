@@ -33,7 +33,7 @@ I am Zhengyi Guo, a Master of Financial Engineering student at Columbia Universi
 
 Apart from research, I love working out, football, basketball, poker and travelling. Moreover, I plan to try vlog creation and learn to ski. If you have similar hobbies, feel free to reach out!
 
-
+---
 
 ## 🧑‍🎓 Education
 
