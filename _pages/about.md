@@ -12,26 +12,19 @@ profile:
   align: right
   image: profile_photo.jpg
   image_circular: false
-  more_info: >
-    <p>Email: zg2525@columbia.edu</p>
-
-selected_papers: false
-social: true
-
-announcements:
-  enabled: false
-  scrollable: false
-  limit:
-
-latest_posts:
-  enabled: false
-  scrollable: false
-  limit:
 ---
 
-I am Zhengyi Guo, a Master of Financial Engineering student at Columbia University. Before coming to Columbia, I obtained my B.S. in Mathematics from University of Liverpool. My acedemic interest is mainly on modern machine learning from propability perspective. Currently, I'm passionate about **Quantitative Finance**, **Generative AI**, and **Decentralized Finance**.
+<!-- 👇 写在 profile 模块旁边的自我介绍内容 -->
+I am Zhengyi Guo, a Master of Financial Engineering student at Columbia University.  
+Before coming to Columbia, I obtained my B.S. in Mathematics from University of Liverpool.  
+My academic interest is mainly on modern machine learning from probability perspective.  
+Currently, I’m passionate about **Quantitative Finance**, **Generative AI**, and **Decentralized Finance**.
 
-Apart from research, I love working out, football, basketball, poker and travelling. Moreover, I plan to try vlog creation and learn to ski. If you have similar hobbies, feel free to reach out!
+Apart from research, I love working out, football, basketball, poker and travelling.  
+Moreover, I plan to try vlog creation and learn to ski. If you have similar hobbies, feel free to reach out!
+
+<!-- ✅ 清除浮动，开始新一行内容（让 Education 等模块从头像下方开始） -->
+<div style="clear: both"></div>
 
 ---
 
