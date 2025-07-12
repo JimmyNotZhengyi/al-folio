@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Columbia University</a>. New York. MFE. Quant & Derivatives.
+subtitle: Life can only be understood backwards, but it must be lived forwards.
 
 profile:
   align: right
